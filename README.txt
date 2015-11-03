@@ -1,2 +1,3 @@
 This is my Project. It's going to be awesome.
-I have now idea in what way, though.
+
+I'll do something in Python. Python is my most proficient programming language.
