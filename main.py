@@ -1,3 +1,4 @@
 #It's Python
 
-print('{}'.format(input('What should I write?')))
+res=str('{}'.format(input('What should I write?')))
+print(res)
